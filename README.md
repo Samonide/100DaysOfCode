@@ -7,7 +7,7 @@
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
-|Day 1|| | |
+|Day 1|29 Jan 2022| Learned about HTML | DevelopedByEd |
 |Day 2|| | |
 |Day 3|| | |
 |Day 4|| | |
